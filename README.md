@@ -17,4 +17,6 @@ API CALLS:
 }`
 
 POST example: 
+
+
 <img width="866" alt="example" src="https://user-images.githubusercontent.com/64424805/177720829-6276dca2-a1a1-4a71-a18c-ad6de994a00a.png">
