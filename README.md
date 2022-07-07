@@ -1,4 +1,4 @@
-Initially  **download model fruit_rec.pt** from the link below (due to file size):  
+Initially  **download model fruit_rec.pt** from the link below (due to file size) and include it in root folder:  
 https://drive.google.com/drive/folders/1aco2IKkyzprG1OhSOaRFdeig-cLlWhCz?usp=sharing  
   
 COMMANDS: 
